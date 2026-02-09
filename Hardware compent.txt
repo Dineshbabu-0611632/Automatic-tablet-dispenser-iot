@@ -1,0 +1,15 @@
+Hardware compent:
+1.Aruduino
+2.Nodumcu(ESP8266)
+3.Heart rate sensor
+4.Buzzer
+5.Bread board
+6.LED display
+7.Jumper wires
+8.push button
+9.RFID-RC522
+10.Micro servo motor
+
+SOFTWARE COMPONENTS:
+1.Aruduino software
+2.Circuit Digest cloud
